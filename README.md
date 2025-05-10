@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>게시판 만들기</title>
+
   </head>
   <body>
     <h1>게시판 만들기</h1>
